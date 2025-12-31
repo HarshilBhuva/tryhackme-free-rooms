@@ -124,7 +124,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Recon
 
-- [ ] [TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
+- [x] [TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
 - [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 - [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
